@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wwwolfgang
-- 👀 I’m interested in Web Development and dataming
+- 👀 I’m interested in Web Development and dataminig
 - 🌱 I’m currently learning Vue.js, Wagtail/Django
 - 📫 How to reach me: wwwolfgang469@gmail.com
 

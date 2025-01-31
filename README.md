@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wwwolfgang
-- 👀 I’m interested in Web Development and dataminig
-- 🌱 I’m currently learning Vue.js, Wagtail/Django
+- 👀 I’m interested in Mobile and Web development
+- 🌱 I’m currently working with Flutter and Vue.js 3
 - 📫 How to reach me: wwwolfgang469@gmail.com
 
 <!---
